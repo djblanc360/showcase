@@ -1,0 +1,62 @@
+[
+    { 
+        "id": 1,
+        "title": "Olukai",
+        "image": "../assets/olukai-project.png",
+        "description": "Integrated Antavo for an extensive loyalty program. The program includes a point system, rewards, and a referral program."
+    },
+    { 
+        "id": 2,
+        "title": "Universal Bloomreach Function",
+        "image": "../assets/bloomreach-project.png",
+        "description": "A customer data gathering application thatt can be used across multiple brands and multiple CDPs. This application is created with node, express and aws. Its capapble of identifying users with tracking cookies and merging duplicate accounts on SHopify"
+    },
+    { 
+        "id": 3,
+        "title": "Roark",
+        "image": "../assets/roark-project.png",
+        "description": "Creating features while migrating to Tailwind for styling."
+    },
+    { 
+        "id": 4,
+        "title": "Melin",
+        "image": "../assets/melin-project.png",
+        "description":"Extended tracking functionality for Bloomreach."
+    },
+    { 
+        "id": 5,
+        "title": "Kaenon",
+        "image": "../assets/kaenon-project.png",
+        "description": "Significantly reduced ADA issues and conditonally rendered applications to prevent further lawsuits"
+    },
+    { 
+        "id": 6,
+        "title": "Kindra",
+        "image": "../assets/kindra-project.png",
+        "description": "Most notable feature was a user assessment quiz inteded to educate the user to recommend products and drive traffic towards blog"
+    },
+    { 
+        "id": 7,
+        "title": "SLMD",
+        "image": "../assets/slmd-project.png",
+        "description": "Sending a user assesment quiz to their email which redirects the user to their personalized collection page"
+    },
+    { 
+        "id": 8,
+        "title": "Miniso",
+        "image": "../assets/miniso-project.png",
+        "description": "Redesign the site for Canada"
+    },
+    { 
+        "id": 9,
+        "title": "DW Home",
+        "image": "../assets/dw-home-project.png",
+        "description": "Created a bundle feaeture for products to incetivse bulk orders from customers"
+    },
+    { 
+        "id": 10,
+        "title": "Ovaterra",
+        "image": "../assets/ovaterra-project.png",
+        "description": "Integrated Recharge Subscriptions with various contions"
+    }
+]
