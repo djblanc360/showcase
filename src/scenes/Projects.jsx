@@ -24,7 +24,7 @@ const Project = ({ key, title, image, description }) => {
                     {description}
                 </p>
             </div>
-            <img src={`../assets/${image}`} className="w-[400px] h-[400px]" alt={title}/>
+            <img src={`assets/${image}`} className="w-[400px] h-[400px]" alt={title}/>
         </motion.div>
     )
 }
