@@ -10,7 +10,10 @@ const Link = ({ page, selectedPage, setSelectedPage }) => {
             className={`${selectedPage === lowerCasePage ? "dark-grey" : "dark-grey"}
                 hover:text-red transition duration-500`}
             href={`#${lowerCasePage}`}
-            onClick={() => setSelectedPage(lowerCasePage)}
+            onClick={() => {
+                setSelectedPage(lowerCasePage)
+                Window.dataLayer.push({'event': 'button-click'})
+            }}
         >
             {page}
         </AnchorLink>
